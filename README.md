@@ -14,3 +14,10 @@ Hotel H, located in Lisbon and part of the independent hotel chain C, traditiona
 1. **Inadequate Segmentation:** The existing segmentation only considers the sales origin, missing out on other crucial characteristics such as geography, demographics, and behavior.
 2. **Strategic Challenges:** Without proper segmentation, it's challenging to define strategies for acquiring new customers and retaining existing ones.
 3. **Diverse Distribution Channels:** Different customer types use various booking channels (e.g., direct bookings, travel agencies, OTAs), affecting how the hotel should tailor its marketing and pricing strategies.
+
+### Assignment
+1. **Data Exploration:** Explore the dataset to identify the relevant variables for customer segmentation.
+2. **Segmentation Using K-Means::**
+   - Justify the selection of the number of clusters (K) based on business needs.
+   - Use Principal Component Analysis (PCA) to reduce dimensionality and speed up model development.
+4. **Business Applications:** Suggest practical applications for the identified customer segments.
